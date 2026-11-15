@@ -10,7 +10,7 @@ Website: https://yongjaelim.github.io/makset-support/
 | Support | [도움말](https://yongjaelim.github.io/makset-support/support/) | [Support](https://yongjaelim.github.io/makset-support/en/support/) |
 | Privacy | [개인정보처리방침](https://yongjaelim.github.io/makset-support/privacy/) | [Privacy policy](https://yongjaelim.github.io/makset-support/en/privacy/) |
 
-Maintainer: 임용재 / Yongjae Lim
+Maintainer contact: MAKSET support
 
 Support and privacy inquiries: libertasab@gmail.com
 

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yongjaelim.github.io/makset-support/sitemap.xml
